@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "api_version": 1,
+  "layout": {
+    "logo": "/terminal/terminal/_B5c04Jf.png",
+    "color": "#fff",
+    "show_title": true
+  }
+}
